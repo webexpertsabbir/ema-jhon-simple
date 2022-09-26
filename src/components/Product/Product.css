@@ -1,0 +1,40 @@
+.products{
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    padding: 8px;
+    position: relative;
+}
+.products img{
+    width: 100%;
+    border-radius: 8px;
+}
+.product-text{
+    margin: 20px;
+}
+.product-text h4{
+    margin: 0px
+}
+.products button{
+    background: goldenrod;
+    border: none;
+    padding: 10px 30px;
+    width: 95%;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    bottom: 8px;
+}
+    
+.products button:hover{
+    background-color: gold;
+}
+.seller-dts{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+.font-icon{
+    margin-left: 10px;
+}

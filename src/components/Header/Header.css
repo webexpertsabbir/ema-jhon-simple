@@ -1,0 +1,16 @@
+.header{
+    background-color: #1C2B35;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 140px;
+}
+.header div a{
+    margin-left: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.header div a:hover{
+    color: chocolate;
+}
