@@ -11,3 +11,13 @@
     grid-gap: 20px;
 }
 
+.cart-container{
+    background-color: goldenrod;
+    padding: 0px 20px;
+    margin: 0px 0px 0px 10px;
+    height: 600px;
+    border-radius: 5px;
+    position: sticky;
+    top: 0;
+
+}
